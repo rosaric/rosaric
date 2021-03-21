@@ -1,0 +1,14 @@
+{
+  "name": "@rosaric/plugin-web",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "fastify": "^3.13.0"
+  },
+  "devDependencies": {
+    "@rosaric/core": "workspace:^0.1.0"
+  },
+  "peerDependencies": {
+    "@rosaric/core": "workspace:^0.1.0"
+  }
+}

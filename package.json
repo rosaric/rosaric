@@ -1,0 +1,20 @@
+{
+  "name": "rosaric",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc -b",
+    "fmt": "prettier --write **/*.ts"
+  },
+  "author": "Pig Fang <g-plane@hotmail.com>",
+  "license": "MIT",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "@gplane/tsconfig": "^4.2.0",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.3"
+  }
+}

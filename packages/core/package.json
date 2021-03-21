@@ -1,0 +1,12 @@
+{
+  "name": "@rosaric/core",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "dependencies": {
+    "zhook": "^0.1.2"
+  }
+}

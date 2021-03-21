@@ -1,0 +1,7 @@
+{
+  "extends": "@gplane/tsconfig",
+  "compilerOptions": {
+    "composite": true,
+    "module": "esnext",
+  }
+}
